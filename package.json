@@ -1,0 +1,12 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manage.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python manage.py runserver 3000"
+  },
+  "author": "",
+  "license": "ISC"
+}
